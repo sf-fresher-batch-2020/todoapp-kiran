@@ -1,0 +1,9 @@
+[submodule "todoapp-ui"]
+	path = todoapp-ui
+	url = https://github.com/sf-fresher-batch-2020/todoapp-ui.git
+[submodule "todoapp-api"]
+	path = todoapp-api
+	url = https://github.com/sf-fresher-batch-2020/todoapp-api.git
+[submodule "todoapp-angular-ui"]
+	path = todoapp-angular-ui
+	url = https://github.com/sf-fresher-batch-2020/todoapp-angular-ui.git
