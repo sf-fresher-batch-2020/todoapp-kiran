@@ -7,3 +7,6 @@
 [submodule "todoapp-angular-ui"]
 	path = todoapp-angular-ui
 	url = https://github.com/sf-fresher-batch-2020/todoapp-angular-ui.git
+[submodule "todoapp-mock-api"]
+	path = todoapp-mock-api
+	url = https://github.com/sf-fresher-batch-2020/todoapp-mock-api.git
